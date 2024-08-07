@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+faiss-cpu
+langchain
+unstructured
+tiktoken
+python-multipart
+uvicorn[standard]
+gunicorn
